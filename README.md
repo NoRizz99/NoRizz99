@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NoRizz99
+- 👋 Hi, I’m @NoRizz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: I ain't him
+- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: I like Fun facts  
 
 <!---
