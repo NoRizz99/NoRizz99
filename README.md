@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @NoRizz
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Fla, i just started my journey at coding and CS in general in March 2024
+- 👀 I’m interested in coding and learning about CS as much as possible
 - 🌱 I’m currently learning Python.
+- 💻 Taking CS50 for fundamentals
 - ⚡ Fun fact: I like Fun facts  
 
 <!---
